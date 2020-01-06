@@ -3,3 +3,5 @@ Simple program for text analysis - read the file or paste the text, modify text 
 
 
 ![Scr](https://i.postimg.cc/rFqMtNLb/interface-1.png)
+
+![Scr2](https://i.postimg.cc/nLSkfJ4x/interface-2.png)
